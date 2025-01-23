@@ -1,0 +1,10 @@
+1001 John_Doe 85 78 92
+1002 Jane_Smith 67 88 74
+1003 Alice_Johnson 45 55 60
+1004 Bob_Williams 90 85 88
+1005 Charlie_Brown 33 40 35
+1006 Emma_Watson 95 92 89
+1007 Michael_Clark 50 65 70
+1008 Sophia_Garcia 80 75 82
+1009 William_Martinez 60 55 58
+1010 Olivia_Lopez 70 85 90
